@@ -16,4 +16,25 @@
 /* Border-radius for the whole theme */
 --border-radius:    8px;
 
+/*fundo*/
+--cor-fundo:  url('https://wallpapercave.com/wp/wp8334648.jpg');
+
+/* Background color */
+--background-primary:    rgb(30,30,30);
+--background-secondary:   rgb(25,25,25);
+--background-secondary-alt:   rgba(41,41,41,1);
+--background-tertiary:  rgb(20,20,20);
+--background-floating:   rgba(31,31,31,1);
+--background-accent:  rgba(255,255,255,1);
+--channeltextarea-background: var(--background-secondary);
+
+
+/* Scrollbar */
+--scrollbar-auto-thumb: var(--background-tertiary);
+--scrollbar-auto-track: var(--background-secondary-alt);
+--scrollbar-thin-thumb: var(--background-tertiary);
+--scrollbar-thin-track: transparent;
+
+/*tamanho chat*/
+--tamanho-chat: 450px;
 }
