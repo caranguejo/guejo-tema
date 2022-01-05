@@ -1,0 +1,19 @@
+/**
+* @name guejo
+* @author caranguejo#0018
+* @description sexo
+* @version 1.0
+*/
+@import url("https://caranguejo.github.io/tema/guejo.css");
+
+:root {
+
+/* --- User variables --- */
+
+/* Jumping GIF */
+--jumping-gif: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ef13c91f-432e-4964-9adb-095af2a9ea36/da1fo9o-d4a0743b-006e-4736-80e2-6c5200cb0a6a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VmMTNjOTFmLTQzMmUtNDk2NC05YWRiLTA5NWFmMmE5ZWEzNlwvZGExZm85by1kNGEwNzQzYi0wMDZlLTQ3MzYtODBlMi02YzUyMDBjYjBhNmEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1SvKo2ssIFG5-ZpPbRX3cLW6Pbe0BA0OL5aBN8IarEQ');
+
+/* Border-radius for the whole theme */
+--border-radius:    8px;
+
+}
