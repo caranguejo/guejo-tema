@@ -34,7 +34,4 @@
 --scrollbar-auto-track: var(--background-secondary-alt);
 --scrollbar-thin-thumb: var(--background-tertiary);
 --scrollbar-thin-track: transparent;
-
-/*tamanho chat*/
---tamanho-chat: 450px;
 }
